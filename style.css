@@ -37,6 +37,22 @@ nav a {
     border: 1px gray;
 }
 
+.main {
+    flex: 3;
+    background-color: white;
+    padding: 15px;
+    border: 1px gray;
+}
+
+.footer {
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+
+
 
 
 
